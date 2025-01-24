@@ -23,13 +23,16 @@ Here are some anime that inspire me deeply:
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
 Feel free to reach out to me through any of the platforms below:
 
-| Platform     | Link                                    |
-|--------------|-----------------------------------------|
-| 📷 **Instagram** | [@ikx7.a](https://instagram.com/ikx7.a) |
-| 🕊️ **Twitter**  | [@Shineii86](https://x.com/Shineii86)   |
-| 👻 **Snapchat**  | [@ikx7.a](https://snapchat.com/ikx7.a)   |
-| 💬 **Telegram**  | [@Shineii86](https://t.me/shineii86)          |
-| 📧 **Hotmail**     | [Mail](mailto:ikx7a@hotmail.com)             |
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
+[![Snapchat Badge](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/ikx7.a "Add on Snapchat")
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/ikx7.a "Connect on Facebook")
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Shineii86 "Follow on Twitter (X)")
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/ "Chat on WhatsApp")
+[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+
+
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Clapper%20Board.webp" alt="Speech Balloon" width="25" height="25" /> YouTube
 Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7a](https://youtube.com/@ikx7a)
@@ -42,7 +45,6 @@ Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7
 ![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
 Stay inspired, stay true to yourself, and keep pushing forward!
 
----
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> Loved My Work?
 
 <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />&nbsp;[Give a star to this project](https://github.com/Shineii86/Shineii86/) <br/>
@@ -57,3 +59,6 @@ Stay inspired, stay true to yourself, and keep pushing forward!
 私のプロフィールに訪問していただきありがとうございます。私のリポジトリをぜひご覧ください！
 
 ---
+
+[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20updated&style=flat)](https://github.com/Shineii86/Shineii86/commits)
+
