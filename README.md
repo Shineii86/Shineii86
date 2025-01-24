@@ -22,7 +22,7 @@ Here are some anime that inspire me deeply:
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
 Feel free to reach out to me through any of the platforms below:
 
 | Platform     | Link                                    |
@@ -33,37 +33,29 @@ Feel free to reach out to me through any of the platforms below:
 | 💬 **Telegram**  | [@Shineii86](https://t.me/shineii86)          |
 | 📧 **Hotmail**     | [Mail](mailto:ikx7a@hotmail.com)             |
 
-## YouTube 🎬
+## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Clapper%20Board.webp" alt="Speech Balloon" width="25" height="25" /> YouTube
 Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7a](https://youtube.com/@ikx7a)
 
-## Quote To Live By 💬
-_"A person grows up when he's able to overcome hardships." — Naruto Uzumaki_  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Quote To Live By
+> _"A person grows up when he's able to overcome hardships." — Naruto Uzumaki_  
 この言葉は私の個人的・プロフェッショナルな生活の中で、常に励まし続けてくれます。成長の道は決して簡単ではありませんが、忍耐強く進んでいけば、どんな困難も乗り越えられます。
 
-## Anime Aesthetic 🎨
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Anime Aesthetic
 ![Anime Image](https://example.com/anime-image.jpg)  
 Stay inspired, stay true to yourself, and keep pushing forward!
 
 ---
-## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> Loved My Work?
 
-<img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
-<img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Tarikul-Islam-Anik)<br/>
-<img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio](https://oxyzen.vercel.app/)<br/>
-<img src="assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs](https://oxyzen.vercel.app/blog)<br/>
-<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) (Tired of drinking Tea)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />&nbsp;[Give a star to this project](https://github.com/Shineii86/Shineii86/) <br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cherry%20Blossom.webp" alt="Cherry Blossom" width="25" height="25" />&nbsp;[Follow me on GitHub](https://github.com/Shineii86/Shineii86)<br/>
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Thinking%20Face.webp" alt="Thinking Face" width="25" height="25" /> Wondering where to get these animated emojis?
 > [Visit here!](https://github.com/Shineii86/Emojis) You also should look around my other github repos. Maybe you'll find some cool useful stuff there.
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Heart%20Hands.webp" alt="Heart Hands" width="25" height="25" /> Thanks for visiting my profile, and feel free to explore my repositories!  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Heart%20Hands.webp" alt="Heart Hands" width="25" height="25" /> Thanks For Visiting My Profile, And Feel Free To Explore My Repositories!  
 私のプロフィールに訪問していただきありがとうございます。私のリポジトリをぜひご覧ください！
 
 ---
-
-**GitHub Username**: @Shineii86  
-**GitHub Name**: Shinei Nouzen  
-**Language**: English + Hindi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="25" height="25" />
-
