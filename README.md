@@ -17,10 +17,8 @@ Here are some anime that inspire me deeply:
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Languages & Skills
 
-- ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-FF9900?style=for-the-badge&logo=javascript&logoColor=fff)
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-FF9900?style=for-the-badge&logo=javascript&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
 Feel free to reach out to me through any of the platforms below:
@@ -40,8 +38,8 @@ Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7
 > _"A person grows up when he's able to overcome hardships." — Naruto Uzumaki_  
 この言葉は私の個人的・プロフェッショナルな生活の中で、常に励まし続けてくれます。成長の道は決して簡単ではありませんが、忍耐強く進んでいけば、どんな困難も乗り越えられます。
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Anime Aesthetic
-![Anime Image](https://example.com/anime-image.jpg)  
+## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Anime World
+![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
 Stay inspired, stay true to yourself, and keep pushing forward!
 
 ---
