@@ -7,13 +7,11 @@ Hello! I'm **Shinei Nouzen** (@Shineii86), a passionate anime lover, programmer,
 Here are some anime that inspire me deeply:
 私にとって深い影響を与えたアニメは以下です：
 
-| Anime                 | Why It Inspires Me                                                                                           |
-|-----------------------|-------------------------------------------------------------------------------------------------------------|
-| **Naruto Shippuden**   | The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. [Source](https://en.wikipedia.org/wiki/Naruto) |
-| **Attack on Titan**    | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. [Source](https://en.wikipedia.org/wiki/Attack_on_Titan) |
-| **86 Eight Six**       | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. [Source](https://en.wikipedia.org/wiki/86_(novel)) |
-| **Sword Art Online**   | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. [Source](https://en.wikipedia.org/wiki/Sword_Art_Online) |
-| **Your Name**          | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. [Source](https://en.wikipedia.org/wiki/Your_Name) |
+| <img src="https://static.wikia.nocookie.net/naruto/images/4/48/Naruto_Shipp%C5%ABden_Logo.png/revision/latest?cb=20130404172829" width="150"/> | <img src="https://static.wikia.nocookie.net/dqcwkmqj/images/c/cf/Attack_on_Titan_Logo.png/revision/latest?cb=20190114222219" width="150"/> | <img src="https://static.wikia.nocookie.net/86-eighty-six/images/1/11/86_Novel_Logo.png/revision/latest?cb=20210417100704" width="150"/> | <img src="https://static.wikia.nocookie.net/swordartonline/images/5/51/SAO_Logo.png/revision/latest/scale-to-width-down/284?cb=20120402050045" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Your_name_movie_logo.png" width="150"/> |
+|---|---|---|---|---|
+| **[Naruto Shippuden](https://en.wikipedia.org/wiki/Naruto)** | **[Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)** | **[86 Eight Six](https://en.wikipedia.org/wiki/86_(novel))** | **[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)** | **[Your Name](https://en.wikipedia.org/wiki/Your_Name)** |
+| The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
+
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Languages & Skills
 
