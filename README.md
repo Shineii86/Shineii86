@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Welcome to My GitHub Profile!
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me
-Hello! I'm **Shinei Nouzen** (@Shineii86), a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
+Hello! I'm **Shinei Nouzen**, a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="25" height="25" /> Anime Inspirations
 Here are some anime that inspire me deeply:
 私にとって深い影響を与えたアニメは以下です：
 
-| <img src="https://static.wikia.nocookie.net/naruto/images/4/48/Naruto_Shipp%C5%ABden_Logo.png/revision/latest?cb=20130404172829" width="150"/> | <img src="https://static.wikia.nocookie.net/dqcwkmqj/images/c/cf/Attack_on_Titan_Logo.png/revision/latest?cb=20190114222219" width="150"/> | <img src="https://static.wikia.nocookie.net/86-eighty-six/images/1/11/86_Novel_Logo.png/revision/latest?cb=20210417100704" width="150"/> | <img src="https://static.wikia.nocookie.net/swordartonline/images/5/51/SAO_Logo.png/revision/latest/scale-to-width-down/284?cb=20120402050045" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Your_name_movie_logo.png" width="150"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/86_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png" width="150"/> |
 |---|---|---|---|---|
 | **[Naruto Shippuden](https://en.wikipedia.org/wiki/Naruto)** | **[Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)** | **[86 Eight Six](https://en.m.wikipedia.org/wiki/86_(novel_series))** | **[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)** | **[Your Name](https://en.wikipedia.org/wiki/Your_Name)** |
 | The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
