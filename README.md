@@ -1,4 +1,9 @@
-# <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Welcome to My GitHub Profile!
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Welcome to My Profile
+</h1>
+<div align="center">
+<img src="https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif">
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me
 Hello! I'm **Shinei Nouzen**, a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
@@ -55,6 +60,12 @@ Stay inspired, stay true to yourself, and keep pushing forward!
 
 <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Heart%20Hands.webp" alt="Heart Hands" width="25" height="25" /> Thanks For Visiting My Profile, And Feel Free To Explore My Repositories!  
 私のプロフィールに訪問していただきありがとうございます。私のリポジトリをぜひご覧ください！
+
+---
+
+<div align="center">
+<img src="https://c.tenor.com/1cM0QL7DCAUAAAAC/tenor.gif">
+</div>
 
 ---
 
