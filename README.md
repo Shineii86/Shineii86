@@ -40,6 +40,9 @@ Feel free to reach out to me through any of the platforms below:
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Clapper%20Board.webp" alt="Speech Balloon" width="25" height="25" /> YouTube
 Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7a](https://youtube.com/@ikx7a)
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Quote To Live By
 > _"A person grows up when he's able to overcome hardships." — Naruto Uzumaki_  
 この言葉は私の個人的・プロフェッショナルな生活の中で、常に励まし続けてくれます。成長の道は決して簡単ではありませんが、忍耐強く進んでいけば、どんな困難も乗り越えられます。
