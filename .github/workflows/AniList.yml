@@ -20,7 +20,7 @@ inputs:
     description: |
       Enable aniList plugin
     type: boolean
-    default: no
+    default: on
     extras:
       - metrics.run.puppeteer.scrapping
 
@@ -29,7 +29,7 @@ inputs:
     description: |
       AniList login
     default: .user.login
-    preset: no
+    preset: on
 
   plugin_anilist_medias:
     description: |
