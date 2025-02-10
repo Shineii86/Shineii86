@@ -1,3 +1,6 @@
+[![Shinei Nouzen profile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/Shineii86)
+
+
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Welcome to My Profile
 </h1>
@@ -73,6 +76,7 @@ Stay inspired, stay true to yourself, and keep pushing forward!
 ---
 
 <div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
@@ -80,4 +84,3 @@ Stay inspired, stay true to yourself, and keep pushing forward!
 </picture>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20updated&style=flat)](https://github.com/Shineii86/Shineii86/commits)
-
