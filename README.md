@@ -1,13 +1,3 @@
-[![Shinei Nouzen profile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/Shineii86)
-
-<tr>
-    <td colspan="2" align="center">
-      <details open><summary>For anime watchers</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" alt=""></img></details>
-      <details open><summary>For waifus simp</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Welcome to My Profile
 </h1>
@@ -91,3 +81,5 @@ Stay inspired, stay true to yourself, and keep pushing forward!
 </picture>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20updated&style=flat)](https://github.com/Shineii86/Shineii86/commits)
+
+[![Pofile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/Shineii86)
