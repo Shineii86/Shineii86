@@ -1,0 +1,21 @@
+name: Display AniList Favorites
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight (UTC)
+  workflow_dispatch: # Allows manual execution
+
+jobs:
+  anilist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: "shineii86" # Your AniList username
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 5
+          plugin_anilist_limit_characters: 20
