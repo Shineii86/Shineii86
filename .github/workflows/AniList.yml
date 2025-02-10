@@ -1,21 +1,20 @@
-name: Display AniList Favorites
+name: README Info Update
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight (UTC)
-  workflow_dispatch: # Allows manual execution
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  anilist:
+  update-readme:
+    name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Shineii86/Shineii86@main
         with:
-          filename: metrics.plugin.anilist.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_user: "shineii86" # Your AniList username
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 5
-          plugin_anilist_limit_characters: 20
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TIMEZONE: "Asia/Kolkata"
+          SHOW_DAILY_COMMIT: "True"
+          SHOW_WEEKLY_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CONTRIBUTIONS: "True"
