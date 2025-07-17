@@ -21,8 +21,45 @@ Here are some anime that inspire me deeply:
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Languages & Skills
 
-![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-FF9900?style=for-the-badge&logo=javascript&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals and Nature/Spouting%20Whale.webp" alt="Spouting Whale" width="25" height="25" /> Competitive Programming
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
+#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Frontend Development & Frameworks
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
+#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Backend Development & Database Services
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
+
+#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Television.webp" alt="Television" width="25" height="25" /> Version Control & Documentation Tools
+
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+
+## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> Contribution Stack
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shineii86&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Shineii86&theme=tokyo-day)
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
 Feel free to reach out to me through any of the platforms below:
