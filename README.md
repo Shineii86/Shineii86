@@ -56,10 +56,30 @@ Here are some anime that inspire me deeply:
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> Contribution Stack
 
+<div align="center">
+  <br/>
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shineii86&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Shinei Nouzen github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shineii86&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shineii86&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Shineii86&theme=tokyo-day)
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shineii86&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Shinei Nouzen streak stats"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shineii86&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
 Feel free to reach out to me through any of the platforms below:
@@ -78,8 +98,6 @@ Feel free to reach out to me through any of the platforms below:
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Clapper%20Board.webp" alt="Speech Balloon" width="25" height="25" /> YouTube
 Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7a](https://youtube.com/@ikx7a)
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Quote To Live By
 > _"A person grows up when he's able to overcome hardships." — Naruto Uzumaki_  
