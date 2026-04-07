@@ -61,8 +61,6 @@ Here are some anime that inspire me deeply:
 <br/>
 
 [![Light Dark](https://githubsmartapi.vercel.app/api/card/Shineii86?bgImage=5&theme=dark)](https://githubsmartapi.vercel.app)
- 
-[![Light Dark](https://githubsmartapi.vercel.app/api/rank-badge/Shineii86?theme=Dark)](https://githubsmartapi.vercel.app) [![Light Dark](https://githubsmartapi.vercel.app/api/level-badge/Shineii86?theme=Dark)](https://githubsmartapi.vercel.app)
   
 </div>
 
