@@ -57,27 +57,9 @@ Here are some anime that inspire me deeply:
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> Contribution Stack
 
 <div align="center">
-
-<br/>
-
-[![Light Dark](https://githubsmartapi.vercel.app/api/card/Shineii86?bgImage=5&theme=dark)](https://githubsmartapi.vercel.app)
   
-</div>
-
-<br/>
-
-<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=shineii86" alt="GitHub Insights"/>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shineii86&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Shinei Nouzen streak stats"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shineii86&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
-
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
