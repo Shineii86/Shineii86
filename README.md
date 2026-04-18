@@ -59,9 +59,9 @@ Here are some anime that inspire me deeply:
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mygithubcard.vercel.app/api?username=Shineii86&theme=midnight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://mygithubcard.vercel.app/api?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <img src="https://mygithubcard.vercel.app/api?username=Shineii86&theme=midnight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card Card Preview" width="850" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=Shineii86&theme=midnight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Shineii86&theme=midnight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card Card Preview" width="850" />
 </picture>
   
 </div>
