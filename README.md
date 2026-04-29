@@ -1,17 +1,16 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝖬𝗒 𝖯𝗋𝗈𝖿𝗂𝗅𝖾
-  
-</h1>
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗦𝗵𝗶𝗻𝗲𝗶%20𝗡𝗼𝘂𝘇𝗲𝗻&fontAlignY=30&fontSize=90&desc=𝖠𝗇𝗂𝗆𝖾%20𝖫𝗈𝗏𝖾𝗋%20|%20𝖥𝗎𝗅𝗅%20𝖲𝗍𝖺𝖼𝗄%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20|%20𝖮𝗉𝖾𝗇%20𝖲𝗈𝗎𝗋𝖼𝖾%20𝖢𝗋𝖾𝖺𝗍𝗈𝗋&descSize=23" />
+
 <img src="https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif">
+
 </div>
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me
+## 🧑‍💻 About Me
 Hello! I'm **Shinei Nouzen**, a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="25" height="25" /> Anime Inspirations
+## ❤️‍🔥 Anime Inspirations
 Here are some anime that inspire me deeply:
-私にとって深い影響を与えたアニメは以下です：
 
 | <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/86_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png" width="150"/> |
 |---|---|---|---|---|
@@ -19,13 +18,13 @@ Here are some anime that inspire me deeply:
 | The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
 
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Languages & Skills
+## 📝 Languages & Skills
 
-#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals and Nature/Spouting%20Whale.webp" alt="Spouting Whale" width="25" height="25" /> Competitive Programming
+#### 🐳 Competitive Programming
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
-#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Frontend Development & Frameworks
+#### 📚 Frontend Development & Frameworks
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
@@ -37,7 +36,7 @@ Here are some anime that inspire me deeply:
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
 
-#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Backend Development & Database Services
+#### 🔌 Backend Development & Database Services
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
@@ -49,12 +48,12 @@ Here are some anime that inspire me deeply:
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
 -  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
 
-#### <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Television.webp" alt="Television" width="25" height="25" /> Version Control & Documentation Tools
+#### ⚙️ Version Control & Documentation Tools
 
 -  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> Contribution Stack
+## 📈 Contribution Stack
 
 <div align="center">
   
@@ -66,44 +65,74 @@ Here are some anime that inspire me deeply:
   
 </div>
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Connect With Me
-Feel free to reach out to me through any of the platforms below:
+## ☎️ Connect With Me
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
-[![Snapchat Badge](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/ikx7.a "Add on Snapchat")
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/ikx7.a "Connect on Facebook")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Shineii86 "Follow on Twitter (X)")
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/ "Chat on WhatsApp")
-[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+<div align="center">
+
+*Feel free to reach out to me through any of the platforms below*
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Shineii86 "Message on Telegram")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
+[![Twitter / X](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shineii86 "Follow on Twitter")
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ikx7a "Connect on Facebook")
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/ikx7.a "Add on Snapchat")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ "Chat on WhatsApp")
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+
+</div>
 
 
+## 🎬 YouTube
+<div align="center">
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Clapper%20Board.webp" alt="Speech Balloon" width="25" height="25" /> YouTube
-Check out my YouTube channel for anime-inspired content, edits, and more: [@ikx7a](https://youtube.com/@ikx7a)
+*Check out my YouTube channel for **anime-inspired content**, edits, and more*
 
+[![YouTube Channel](https://img.shields.io/badge/@ikx7a-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ikx7a)
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Quote To Live By
-> _"A person grows up when he's able to overcome hardships." — Naruto Uzumaki_  
-この言葉は私の個人的・プロフェッショナルな生活の中で、常に励まし続けてくれます。成長の道は決して簡単ではありませんが、忍耐強く進んでいけば、どんな困難も乗り越えられます。
+</div>
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Anime World
+## 💬 Quote To Live By
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <br/>
+      <i>"A person grows up when he's able to overcome hardships."</i>
+      <br/><br/>
+      <b>— Naruto Uzumaki, Naruto Shippuden</b>
+      <br/><br/>
+      <sub>This quote pushes me forward in every challenge — personal and professional alike.</sub>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 🎨 Anime World
+<div align="center">
+  
+![MAL](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
+![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
+![Anime](https://img.shields.io/badge/Currently%20Watching-86%20Eighty%20Six-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
 ![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
-Stay inspired, stay true to yourself, and keep pushing forward!
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> Loved My Work?
+*Stay inspired, stay true to yourself, and keep pushing forward!*
 
-<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />&nbsp;[Give a star to this project](https://github.com/Shineii86/Shineii86/) <br/>
-<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals%20and%20Nature/Cherry%20Blossom.webp" alt="Cherry Blossom" width="25" height="25" />&nbsp;[Follow me on GitHub](https://github.com/Shineii86/Shineii86)<br/>
+</div>
 
-> <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Smileys/Thinking%20Face.webp" alt="Thinking Face" width="25" height="25" /> Wondering where to get these animated emojis?
-> [Visit here!](https://github.com/Shineii86/Emojis) You also should look around my other github repos. Maybe you'll find some cool useful stuff there.
+## 💕 Loved My Work?
+
+🫂 [Follow me on GitHub](https://github.com/Shineii86/Shineii86) <br/>
+⭐ [Give a star to this project](https://github.com/Shineii86/Shineii86/) <br/>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Heart%20Hands.webp" alt="Heart Hands" width="25" height="25" /> Thanks For Visiting My Profile, And Feel Free To Explore My Repositories!  
-私のプロフィールに訪問していただきありがとうございます。私のリポジトリをぜひご覧ください！
+*🚀 Thanks For Visiting My Profile, And Feel Free To Explore My Repositories!*
 
 ---
 
@@ -121,6 +150,6 @@ Stay inspired, stay true to yourself, and keep pushing forward!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20updated&style=flat)](https://github.com/Shineii86/Shineii86/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20Updated&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/Shineii86/Shineii86/commits)
 
 [![Pofile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/Shineii86)
