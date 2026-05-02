@@ -56,11 +56,18 @@ Here are some anime that inspire me deeply:
 ## 📈 Contribution Stack
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=light">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+</picture>
+
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
-  <img src="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card Card Preview" width="850" />
+  <img src="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="850" />
 </picture>
   
 </div>
@@ -128,7 +135,7 @@ Here are some anime that inspire me deeply:
 ## 💕 Loved My Work?
 
 🫂 [Follow me on GitHub](https://github.com/Shineii86/Shineii86) <br/>
-⭐ [Give a star to this project](https://github.com/Shineii86/Shineii86/) <br/>
+⭐ [Give a star to this project](https://github.com/Shineii86/Shineii86/)
 
 ---
 
