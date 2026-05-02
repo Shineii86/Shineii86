@@ -1,325 +1,155 @@
 <div align="center">
 
-<!-- ============================================ -->
-<!--              HEADER / HERO SECTION            -->
-<!-- ============================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗦𝗵𝗶𝗻𝗲𝗶%20𝗡𝗼𝘂𝘇𝗲𝗻&fontAlignY=30&fontSize=90&desc=𝖠𝗇𝗂𝗆𝖾%20𝖫𝗈𝗏𝖾𝗋%20|%20𝖥𝗎𝗅𝗅%20𝖲𝗍𝖺𝖼𝗄%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20|%20𝖮𝗉𝖾𝗇%20𝖲𝗈𝗎𝗋𝖼𝖾%20𝖢𝗋𝖾𝖺𝗍𝗈𝗋&descSize=23" />
 
-<!-- Animated gradient header -->
-<a href="https://github.com/Shineii86">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-  </picture>
-</a>
-
-<br/>
-
-<!-- Typing SVG - Multi line rotating -->
-<a href="https://github.com/Shineii86">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:E85D75,100:7C3AED&height=180&text=%E2%9A%A1%20SHINEI%20NOUZEN%20%E2%9A%A1&fontSize=70&fontColor=FFFFFF&animation=twinkling" alt="Shinei Nouzen" />
-</a>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=700&color=E85D75&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96%20Building%20Telegram%20Bots%20%26%20Dev%20Tools;🎬%20Anime%20culture%20meets%20code;⚡%2047%20repos%20%7C%20Full%20Stack%20Developer)](https://git.io/typing-svg)
-
-<!-- Animated wave divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif">
 
 </div>
 
-<br/>
+## 🧑‍💻 About Me
+Hello! I'm **Shinei Nouzen**, a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
 
-<!-- ============================================ -->
-<!--              ABOUT ME - TERMINAL             -->
-<!-- ============================================ -->
+## ❤️‍🔥 Anime Inspirations
+Here are some anime that inspire me deeply:
 
-<div align="center">
+| <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/86_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png" width="150"/> |
+|---|---|---|---|---|
+| **[Naruto Shippuden](https://en.wikipedia.org/wiki/Naruto)** | **[Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)** | **[86 Eight Six](https://en.m.wikipedia.org/wiki/86_(novel_series))** | **[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)** | **[Your Name](https://en.wikipedia.org/wiki/Your_Name)** |
+| The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
 
-```javascript
-const shinei = {
-    pronouns: "he/him",
-    location: "🌐 Somewhere in the anime dimension",
-    currentFocus: "Telegram Bots & Dev Tools",
-    learning: ["NestJS", "Docker", "System Design"],
-    funFact: "I mass-check Instagram usernames from Google Colab 🤖",
-    motto: "A person grows up when he's able to overcome hardships.",
-    availableFor: "Open Source Collabs & Cool Projects"
-};
-```
 
-</div>
+## 📝 Languages & Skills
 
-<br/>
+#### 🐳 Competitive Programming
 
-<!-- ============================================ -->
-<!--              FEATURED PROJECTS               -->
-<!-- ============================================ -->
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+#### 📚 Frontend Development & Frameworks
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Shineii86/QuinxOS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shineii86&repo=QuinxOS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9" />
-      </a>
-      <br/><sub>🔧 Termux Optimization Suite</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Shineii86/WebScrapper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shineii86&repo=WebScrapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9" />
-      </a>
-      <br/><sub>🕷️ Telegram Web Scraping Bot</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Shineii86/YouTube-Card">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shineii86&repo=YouTube-Card&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9" />
-      </a>
-      <br/><sub>🎴 Dynamic OG Cards for YouTube</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Shineii86/GitHost">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shineii86&repo=GitHost&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9" />
-      </a>
-      <br/><sub>☁️ Self-Hosted Media Sharing</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Shineii86/Everything">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shineii86&repo=Everything&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9" />
-      </a>
-      <br/><sub>🎌 Anime/Manga Directory</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Shineii86/InstaUserCheckBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shineii86&repo=InstaUserCheckBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9" />
-      </a>
-      <br/><sub>📱 Instagram Username Checker</sub>
-    </td>
-  </tr>
-</table>
-</div>
+#### 🔌 Backend Development & Database Services
 
-<br/>
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
 
-<!-- ============================================ -->
-<!--              TECH STACK                       -->
-<!-- ============================================ -->
+#### ⚙️ Version Control & Documentation Tools
+
+-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+
+## 📈 Contribution Stack
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Arsenal
-
-<div align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</div>
-
-<div align="center">
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-</div>
-
-<div align="center">
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-
-</div>
-
-<div align="center">
-
-<!-- Databases & Tools -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<!-- ============================================ -->
-<!--              GITHUB STATS                     -->
-<!-- ============================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/KzJkzjgaFH7tFKsfIa/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-
-<!-- Stats + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shineii86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&icon_color=7C3AED&text_color=C9D1D9&ring_color=E85D75&include_all_commits=true&count_private=true&custom_title=%F0%9F%94%A5%20Shinei%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shineii86&theme=tokyonight&hide_border=true&background=0D1117&stroke=E85D75&ring=E85D75&fire=E85D75&currStreakLabel=E85D75&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" width="49%"/>
-
-<br/>
-
-<!-- Top Languages - Donut -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shineii86&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85D75&text_color=C9D1D9&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=300" width="35%"/>
-
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shineii86&bg_color=0D1117&color=7C3AED&line=E85D75&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shineii86&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ============================================ -->
-<!--              ANIME SECTION                    -->
-<!-- ============================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/LOcnG3zjCFtp06nLIA/giphy.gif" width="30"> Anime That Shaped Me
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="110" style="border-radius:12px"/>
-      <br/><b>Naruto</b>
-      <br/><sub>🔥 Never give up</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg" width="110" style="border-radius:12px"/>
-      <br/><b>Attack on Titan</b>
-      <br/><sub>⚔️ Fight for freedom</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/86_light_novel_volume_1_cover.jpg" width="110" style="border-radius:12px"/>
-      <br/><b>86</b>
-      <br/><sub>🛡️ Resilience</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg" width="110" style="border-radius:12px"/>
-      <br/><b>SAO</b>
-      <br/><sub>🎮 Virtual worlds</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png" width="110" style="border-radius:12px"/>
-      <br/><b>Your Name</b>
-      <br/><sub>💫 Fate & love</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<!-- Random anime quote -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
-<!-- ============================================ -->
-<!--              CONNECT                          -->
-<!-- ============================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30"> Let's Connect
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>](https://telegram.me/Shineii86)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/ikx7.a)
-[<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://twitter.com/Shineii86)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://youtube.com/@ikx7a)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://facebook.com/ikx7a)
-[<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>](https://pinterest.com/ikx7a)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ikx7a@hotmail.com)
-
-</div>
-
-<br/>
-
-<!-- ============================================ -->
-<!--              SUPPORT & FOOTER                 -->
-<!-- ============================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/Ur8qW4hMkf2ikXW2ct/giphy.gif" width="30"> Support My Work
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>](https://buymeacoffee.com/)
-[<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>](https://paypal.me/)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Shineii86&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<!-- Last Updated -->
-[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20Updated&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/Shineii86/Shineii86/commits)
-
-<br/><br/>
-
-<!-- Footer Snake -->
+  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
+  <img src="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card Card Preview" width="850" />
+</picture>
+  
+</div>
+
+## ☎️ Connect With Me
+
+<div align="center">
+
+*Feel free to reach out to me through any of the platforms below*
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Shineii86 "Message on Telegram")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
+[![Twitter / X](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shineii86 "Follow on Twitter")
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ikx7a "Connect on Facebook")
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/ikx7.a "Add on Snapchat")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ "Chat on WhatsApp")
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+
+</div>
+
+
+## 🎬 YouTube
+<div align="center">
+
+*Check out my YouTube channel for **anime-inspired content**, edits, and more*
+
+[![YouTube Channel](https://img.shields.io/badge/@ikx7a-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ikx7a)
+
+</div>
+
+## 💬 Quote To Live By
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <br/>
+      <i>"A person grows up when he's able to overcome hardships."</i>
+      <br/><br/>
+      <b>— Naruto Uzumaki, Naruto Shippuden</b>
+      <br/><br/>
+      <sub>This quote pushes me forward in every challenge — personal and professional alike.</sub>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 🎨 Anime World
+<div align="center">
+  
+![MAL](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
+![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
+![Anime](https://img.shields.io/badge/Currently%20Watching-86%20Eighty%20Six-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
+
+*Stay inspired, stay true to yourself, and keep pushing forward!*
+
+</div>
+
+## 💕 Loved My Work?
+
+🫂 [Follow me on GitHub](https://github.com/Shineii86/Shineii86) <br/>
+⭐ [Give a star to this project](https://github.com/Shineii86/Shineii86/) <br/>
+
+---
+
+*🚀 Thanks For Visiting My Profile, And Feel Free To Explore My Repositories!*
+
+---
+
+<div align="center">
+<img src="https://c.tenor.com/1cM0QL7DCAUAAAAC/tenor.gif">
+</div>
+
+---
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20Updated&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/Shineii86/Shineii86/commits)
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20For%20Stopping%20By!&fontAlignY=40&fontSize=30&animation=twinkling" width="100%"/>
-
-</div>
+[![Pofile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/Shineii86)
