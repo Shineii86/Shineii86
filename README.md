@@ -57,11 +57,9 @@ Here are some anime that inspire me deeply:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=light">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
-</picture>
+<a href="https://github.com/Shineii86">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+</a>
 
   
 <picture>
