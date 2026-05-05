@@ -15,14 +15,16 @@ Building tools that blend anime culture with modern engineering — from REST AP
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**AniNewsAPI**](https://github.com/Shineii86/AniNewsAPI) | Real-time anime news from Crunchyroll & ANN | Express · Cheerio · Vercel |
-| [**PullShark**](https://github.com/Shineii86/PullShark) | Automated GitHub achievement unlocker | Python · Colab · GitHub API |
-| [**LeechBot**](https://github.com/Shineii86/LeechBot) | Advanced Telegram file transloader | Pyrogram · yt-dlp · GDrive |
-| [**ShineiAPI**](https://shineiapi.vercel.app) | Free Manga, Manhwa & Webtoon REST API | Next.js · Tailwind · Vercel |
-| [**AniTrack**](https://shineii86.github.io/AniTrack/) | Seasonal anime tracker with live countdowns | Vue.js · Jikan API |
-| [**AlisaReactionBot**](https://t.me/AlisaReactionBot) | Auto-reacts to Telegram messages | Express · Serverless |
+| Project | Description | Status | Tech |
+|---------|-------------|--------|------|
+| [**AniNewsAPI**](https://github.com/Shineii86/AniNewsAPI) | Real-time anime news from Crunchyroll & ANN | ![CI](https://github.com/Shineii86/AniNewsAPI/actions/workflows/ci.yml/badge.svg) | Express · Cheerio · Vercel |
+| [**PullShark**](https://github.com/Shineii86/PullShark) | Automated GitHub achievement unlocker | ![Stars](https://img.shields.io/github/stars/Shineii86/PullShark) | Python · Colab · GitHub API |
+| [**LeechBot**](https://github.com/Shineii86/LeechBot) | Advanced Telegram file transloader | ![CI](https://github.com/Shineii86/LeechBot/actions/workflows/ci.yml/badge.svg) | Pyrogram · yt-dlp · GDrive |
+| [**ShineiAPI**](https://shineiapi.vercel.app) | Free Manga, Manhwa & Webtoon REST API | ![CI](https://github.com/Shineii86/ShineiAPI/actions/workflows/ci.yml/badge.svg) | Next.js · Tailwind · Vercel |
+| [**AlisaReactionBot**](https://t.me/AlisaReactionBot) | Auto-reacts to Telegram messages | ![CI](https://github.com/Shineii86/AlisaReactionBot/actions/workflows/ci.yml/badge.svg) | Express · Serverless |
+| [**AniTrack**](https://shineii86.github.io/AniTrack/) | Seasonal anime tracker with live countdowns | ![Deploy](https://github.com/Shineii86/AniTrack/actions/workflows/deploy.yml/badge.svg) | Vue.js · Jikan API |
+| [**YouTube-Card**](https://youtubecards.vercel.app) | Dynamic OG cards for YouTube channels | ![CI](https://github.com/Shineii86/YouTube-Card/actions/workflows/ci.yml/badge.svg) | Next.js 15 · React 19 |
+| [**Portfolio**](https://shineii86.github.io/Portfolio/) | Anime-themed developer portfolio | ![Deploy](https://github.com/Shineii86/Portfolio/actions/workflows/deploy.yml/badge.svg) | HTML · CSS · JS |
 
 ---
 
@@ -46,6 +48,19 @@ Building tools that blend anime culture with modern engineering — from REST AP
 
 ---
 
+## ⚡ CI/CD Workflows
+
+All major repos have automated CI/CD pipelines:
+
+| Workflow | Repos | What it does |
+|----------|-------|-------------|
+| 🟢 **Node.js CI** | AniNewsAPI, AlisaReactionBot, AniChatAPI, AniQuotesAPI, AniRecommendAPI, AniQuizAPI, YouTube-Card, Telegram-Card | `npm ci` → build → test on Node 18/20/22 |
+| 🐍 **Python CI** | LeechBot, WebScrapper, InstaUserCheckBot, TelegramUserCheckBot, GitHost, GitUnzip | `pip install` → flake8 lint on Python 3.10/3.11/3.12 |
+| 📄 **GitHub Pages Deploy** | AniTrack, Portfolio, AniList, AniFinder, AniStream, AniEmojis, TextFlux, GitHubAPI, AniPay, AniShortener, AniIPFinder, AniQRGenerator, AniLinkGenerator, AniResizer, AniMail | Auto-deploy static sites on push to main |
+| 🔄 **Dependabot** | ShineiAPI | Auto dependency updates |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -62,16 +77,20 @@ Building tools that blend anime culture with modern engineering — from REST AP
 
 ## 🌐 Live Demos
 
-- 🎬 [AniTrack](https://shineii86.github.io/AniTrack/) — Seasonal anime tracker
-- 📰 [AniNewsAPI](https://aninewsapi.vercel.app) — Anime news API
-- 💬 [AniChatAPI](https://anichatapi.vercel.app) — Anime chatbot API
-- 📖 [ShineiAPI](https://shineiapi.vercel.app) — Manga/Manhwa API
-- 🎵 [AniQuotesAPI](https://aniquotesapi.vercel.app) — Anime quotes API
-- 🔗 [YouTube-Card](https://youtubecards.vercel.app) — OG preview cards
-- ✂️ [AniResizer](https://aniresizer.vercel.app) — Image resizer
-- 📧 [AniMail](https://animail.vercel.app) — Temp email generator
-- 🔍 [AniFinder](https://shineii86.github.io/AniFinder/) — Anime search
-- 🎮 [AniQuizAPI](https://aniquizapi.vercel.app) — Anime quiz API
+| Demo | URL |
+|------|-----|
+| 🎬 AniTrack | [shineii86.github.io/AniTrack](https://shineii86.github.io/AniTrack/) |
+| 📰 AniNewsAPI | [aninewsapi.vercel.app](https://aninewsapi.vercel.app) |
+| 💬 AniChatAPI | [anichatapi.vercel.app](https://anichatapi.vercel.app) |
+| 📖 ShineiAPI | [shineiapi.vercel.app](https://shineiapi.vercel.app) |
+| 🎵 AniQuotesAPI | [aniquotesapi.vercel.app](https://aniquotesapi.vercel.app) |
+| 🔗 YouTube-Card | [youtubecards.vercel.app](https://youtubecards.vercel.app) |
+| ✂️ AniResizer | [aniresizer.vercel.app](https://aniresizer.vercel.app) |
+| 📧 AniMail | [animail.vercel.app](https://animail.vercel.app) |
+| 🔍 AniFinder | [shineii86.github.io/AniFinder](https://shineii86.github.io/AniFinder/) |
+| 🎮 AniQuizAPI | [aniquizapi.vercel.app](https://aniquizapi.vercel.app) |
+| 📱 AniEmojis | [shineii86.github.io/AniEmojis](https://shineii86.github.io/AniEmojis/) |
+| 🔗 AniShortener | [anishortener.vercel.app](https://anishortener.vercel.app) |
 
 ---
 
