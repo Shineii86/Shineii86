@@ -15,16 +15,16 @@ Building tools that blend anime culture with modern engineering — from REST AP
 
 ## 🚀 Featured Projects
 
-| Project | Description | Status | Tech |
-|---------|-------------|--------|------|
-| [**AniNewsAPI**](https://github.com/Shineii86/AniNewsAPI) | Real-time anime news from Crunchyroll & ANN | ![CI](https://github.com/Shineii86/AniNewsAPI/actions/workflows/ci.yml/badge.svg) | Express · Cheerio · Vercel |
-| [**PullShark**](https://github.com/Shineii86/PullShark) | Automated GitHub achievement unlocker | ![Stars](https://img.shields.io/github/stars/Shineii86/PullShark) | Python · Colab · GitHub API |
-| [**LeechBot**](https://github.com/Shineii86/LeechBot) | Advanced Telegram file transloader | ![CI](https://github.com/Shineii86/LeechBot/actions/workflows/ci.yml/badge.svg) | Pyrogram · yt-dlp · GDrive |
-| [**ShineiAPI**](https://shineiapi.vercel.app) | Free Manga, Manhwa & Webtoon REST API | ![CI](https://github.com/Shineii86/ShineiAPI/actions/workflows/ci.yml/badge.svg) | Next.js · Tailwind · Vercel |
-| [**AlisaReactionBot**](https://t.me/AlisaReactionBot) | Auto-reacts to Telegram messages | ![CI](https://github.com/Shineii86/AlisaReactionBot/actions/workflows/ci.yml/badge.svg) | Express · Serverless |
-| [**AniTrack**](https://shineii86.github.io/AniTrack/) | Seasonal anime tracker with live countdowns | ![Deploy](https://github.com/Shineii86/AniTrack/actions/workflows/deploy.yml/badge.svg) | Vue.js · Jikan API |
-| [**YouTube-Card**](https://youtubecards.vercel.app) | Dynamic OG cards for YouTube channels | ![CI](https://github.com/Shineii86/YouTube-Card/actions/workflows/ci.yml/badge.svg) | Next.js 15 · React 19 |
-| [**Portfolio**](https://shineii86.github.io/Portfolio/) | Anime-themed developer portfolio | ![Deploy](https://github.com/Shineii86/Portfolio/actions/workflows/deploy.yml/badge.svg) | HTML · CSS · JS |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**AniNewsAPI**](https://github.com/Shineii86/AniNewsAPI) | Real-time anime news from Crunchyroll & ANN | Express · Cheerio · Vercel |
+| [**PullShark**](https://github.com/Shineii86/PullShark) | Automated GitHub achievement unlocker | Python · Colab · GitHub API |
+| [**LeechBot**](https://github.com/Shineii86/LeechBot) | Advanced Telegram file transloader | Pyrogram · yt-dlp · GDrive |
+| [**ShineiAPI**](https://shineiapi.vercel.app) | Free Manga, Manhwa & Webtoon REST API | Next.js · Tailwind · Vercel |
+| [**AlisaReactionBot**](https://t.me/AlisaReactionBot) | Auto-reacts to Telegram messages | Express · Serverless |
+| [**AniTrack**](https://shineii86.github.io/AniTrack/) | Seasonal anime tracker with live countdowns | Vue.js · Jikan API |
+| [**YouTube-Card**](https://youtubecards.vercel.app) | Dynamic OG cards for YouTube channels | Next.js 15 · React 19 |
+| [**Portfolio**](https://shineii86.github.io/Portfolio/) | Anime-themed developer portfolio | HTML · CSS · JS |
 
 ---
 
@@ -45,19 +45,6 @@ Building tools that blend anime culture with modern engineering — from REST AP
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=githubpages&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
-
----
-
-## ⚡ CI/CD Workflows
-
-All major repos have automated CI/CD pipelines:
-
-| Workflow | Repos | What it does |
-|----------|-------|-------------|
-| 🟢 **Node.js CI** | AniNewsAPI, AlisaReactionBot, AniChatAPI, AniQuotesAPI, AniRecommendAPI, AniQuizAPI, YouTube-Card, Telegram-Card | `npm ci` → build → test on Node 18/20/22 |
-| 🐍 **Python CI** | LeechBot, WebScrapper, InstaUserCheckBot, TelegramUserCheckBot, GitHost, GitUnzip | `pip install` → flake8 lint on Python 3.10/3.11/3.12 |
-| 📄 **GitHub Pages Deploy** | AniTrack, Portfolio, AniList, AniFinder, AniStream, AniEmojis, TextFlux, GitHubAPI, AniPay, AniShortener, AniIPFinder, AniQRGenerator, AniLinkGenerator, AniResizer, AniMail | Auto-deploy static sites on push to main |
-| 🔄 **Dependabot** | ShineiAPI | Auto dependency updates |
 
 ---
 
