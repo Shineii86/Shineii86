@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗦𝗵𝗶𝗻𝗲𝗶%20𝗡𝗼𝘂𝘇𝗲𝗻&fontAlignY=30&fontSize=90&desc=𝖠𝗇𝗂𝗆𝖾%20𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍%20|%20𝖥𝗎𝗅𝗅%20𝖲𝗍𝖺𝖼𝗄%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20|%20𝖮𝗉𝖾𝗇%20𝖲𝗈𝗎𝗋𝖼𝖾%20𝖢𝗋𝖾𝖺𝗍𝗈𝗋&descSize=23" />
 
-<img src="https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif">
+[![Gif](https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif)](https://github.com/Shineii86)
 
 </div>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me 
 Hello! I'm **Shinei Nouzen**, a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
 
 > Building Tools That Blend Anime Culture With Modern Engineering — from REST APIs To Telegram Bots To GitHub Achievement Unlockers.
@@ -24,36 +24,36 @@ Here are some anime that inspire me deeply:
 
 #### 🐳 Competitive Programming
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)](https://github.com/Shineii86)
 
 #### 📚 Frontend Development & Frameworks
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)](https://github.com/Shineii86)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)](https://github.com/Shineii86)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)](https://github.com/Shineii86)
 
 #### 🔌 Backend Development & Database Services
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
--  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
--  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
--  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)](https://github.com/Shineii86)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)](https://github.com/Shineii86)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)](https://github.com/Shineii86)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)](https://github.com/Shineii86)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)](https://github.com/Shineii86)
 
 #### ⚙️ Version Control & Documentation Tools
 
--  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/Shineii86)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)](https://github.com/Shineii86)
 
 ## 📈 Contribution Stack
 
@@ -63,12 +63,14 @@ Here are some anime that inspire me deeply:
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
 </a>
 
-  
+<a href="https://github.com/mygithubinsights.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
+<source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <img src="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="850" />
+  </a>
 </picture>
+</a>
   
 </div>
 
@@ -122,11 +124,11 @@ Here are some anime that inspire me deeply:
 ## 🎨 Anime World
 <div align="center">
   
-![MAL](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
-![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
-![Anime](https://img.shields.io/badge/Currently%20Watching-86%20Eighty%20Six-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
+[![MAL](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://github.com/Shineii86)
+[![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://github.com/Shineii86)
+[![Anime](https://img.shields.io/badge/Currently%20Watching-86%20Eighty%20Six-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)](https://github.com/Shineii86)
 
-![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
+[![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)](https://github.com/Shineii86)
 
 *Stay inspired, stay true to yourself, and keep pushing forward!*
 
@@ -134,8 +136,7 @@ Here are some anime that inspire me deeply:
 
 ## 💕 Loved My Work?
 
-🫂 [Follow me on GitHub](https://github.com/Shineii86/Shineii86) <br/>
-⭐ [Give a star to this project](https://github.com/Shineii86/Shineii86/)
+🫂 [Follow me on GitHub](https://github.com/Shineii86/Shineii86)
 
 ---
 
@@ -144,19 +145,23 @@ Here are some anime that inspire me deeply:
 ---
 
 <div align="center">
-<img src="https://c.tenor.com/1cM0QL7DCAUAAAAC/tenor.gif">
+  
+[![Gif](https://c.tenor.com/1cM0QL7DCAUAAAAC/tenor.gif)](https://github.com/Shineii86)
+  
 </div>
 
 ---
 
 <div align="center">
-  
+
+<a href="https://github.com/Shineii86">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+</a>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20Updated&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/Shineii86/Shineii86/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/Shineii86/main?label=Last%20Updated&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/Shineii86/Shineii86/commits) [![Last Seen](https://img.shields.io/endpoint?style=for-the-badge&url=https://mylastseen.vercel.app/api/lastseen/Shineii86/badge)](https://mylastseen.vercel.app)
 
 [![Pofile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/Shineii86)
