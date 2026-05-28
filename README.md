@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗦𝗵𝗶𝗻𝗲𝗶%20𝗡𝗼𝘂𝘇𝗲𝗻&fontAlignY=30&fontSize=90&desc=𝖠𝗇𝗂𝗆𝖾%20𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍%20|%20𝖥𝗎𝗅𝗅%20𝖲𝗍𝖺𝖼𝗄%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20|%20𝖮𝗉𝖾𝗇%20𝖲𝗈𝗎𝗋𝖼𝖾%20𝖢𝗋𝖾𝖺𝗍𝗈𝗋&descSize=23" />
+[![Zzz](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗦𝗵𝗶𝗻𝗲𝗶%20𝗡𝗼𝘂𝘇𝗲𝗻&fontAlignY=30&fontSize=90&desc=𝖠𝗇𝗂𝗆𝖾%20𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍%20|%20𝖥𝗎𝗅𝗅%20𝖲𝗍𝖺𝖼𝗄%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20|%20𝖮𝗉𝖾𝗇%20𝖲𝗈𝗎𝗋𝖼𝖾%20𝖢𝗋𝖾𝖺𝗍𝗈𝗋&descSize=23)](https://github.com/Shineii86/Shineii86)
 
 [![Gif](https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif)](https://github.com/Shineii86)
 
@@ -63,7 +63,7 @@ Here are some anime that inspire me deeply:
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shineii86&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
 </a>
 
-<a href="https://github.com/mygithubinsights.vercel.app">
+<a href="https://mygithubinsights.vercel.app">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
